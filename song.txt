@@ -2,5 +2,15 @@ First line of code
 initial song
 add one more line
 
+<<<<<<< HEAD
 add line for feature branck
 
+=======
+
+test gui interface
+content commit and need to go back 1.first way go to back in commit and I want to add some things and again commit
+
+add branch feature
+second change
+pull
+>>>>>>> a8fc32e4b3d32561684cb76014ec92a03ac0c28e
